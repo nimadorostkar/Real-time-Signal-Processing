@@ -6,7 +6,7 @@ This project is a real-time signal processing application for monitoring and ana
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 
 ### Usage
